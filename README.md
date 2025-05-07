@@ -1,0 +1,1 @@
+This repository is a collection of tasks for Java Test Automation Lab.
